@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TEXT STYLE</title>
+</head>
+
+<body>
+<b>bold</b>
+<strong>important</strong>
+<i>italic</i>
+<mark>highlighted</mark>
+<small>small text</small>
+<del>deleted</del>
+<ins>inserted</ins>
+<p> sub <sub>scripted</sub></p>
+<p> sup<sup>scripted</sup></p>
