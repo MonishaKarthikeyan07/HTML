@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>First with Style </title>
+</head>
+
+<body>
+<pre>
+<h1 style="color:Green;text-align:center;"> First with Style</h1>
+<hr>
+<h2 style="background-color:blue;">Welcome!!!</h2>
+<p style="background-color:yellow;font-size:400%">PLeasant greetings</p>
